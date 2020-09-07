@@ -2,9 +2,25 @@
 
 Bio 
 
-### Projects
+## Projects
 
-## Project 1
+### Project 1
+
+### Project 2
+
+## Work Experience
+
+### Nirrin
+
+### UROP
+
+### Fritz
+
+### UROP
+
+### H2L
+
+### BU
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
