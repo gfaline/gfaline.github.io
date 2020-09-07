@@ -12,10 +12,13 @@ Gwen is interested in human-robot interactions especially with the use of XR.
 https://education.mit.edu/project/clevr/
 
 ### Avatar VR
+https://github.com/jimmyz42/avatar-puzzles
 
 ### Agromica Farming and Finance Video Game
+https://github.com/Mach131/CMS611-S19Final
 
 ### CosplayAR
+https://github.com/Reality-Virtually-Hackathon/CosplayAR
 
 ### Human Robot interactions through Hololens, Haptic armband and Nao Robot
 
@@ -24,11 +27,11 @@ https://education.mit.edu/project/clevr/
 
 ### Nirrin
 
-### UROP
+### MIT Game Lab UROP
 
 ### Fritz
 
-### UROP
+### MIT Residential Agriculture UROP
 
 ### H2L
 
