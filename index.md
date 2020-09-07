@@ -2,6 +2,8 @@
 
 Gwen is a software engineer for biotech startup Nirrin Analytics. They graduated from MIT in 2019 with a Bachelors of Science in Electrical Engineering and Computer Science with a minor in Comparative Media Studies. 
 
+Gwen is interested in human-robot interactions especially with the use of XR. 
+
 ## Projects
 
 ### Audio Only Agumented Reality Platformer Game with BoseAR
@@ -9,11 +11,14 @@ Gwen is a software engineer for biotech startup Nirrin Analytics. They graduated
 ### CLEVR: Collaborative Learning Environments in Virtual Reality
 https://education.mit.edu/project/clevr/
 
-### Project 2
+### Avatar VR
 
-### Project 2
+### Agromica Farming and Finance Video Game
 
-### Project 2
+### CosplayAR
+
+### Human Robot interactions through Hololens, Haptic armband and Nao Robot
+
 
 ## Work Experience
 
