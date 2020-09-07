@@ -1,10 +1,17 @@
 ## Gwendolyn Edgar
 
-Bio 
+Gwen is a software engineer for biotech startup Nirrin Analytics. They graduated from MIT in 2019 with a Bachelors of Science in Electrical Engineering and Computer Science with a minor in Comparative Media Studies. 
 
 ## Projects
 
-### Project 1
+### Audio Only Agumented Reality Platformer Game with BoseAR
+
+### CLEVR: Collaborative Learning Environments in Virtual Reality
+https://education.mit.edu/project/clevr/
+
+### Project 2
+
+### Project 2
 
 ### Project 2
 
