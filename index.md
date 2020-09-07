@@ -2,7 +2,7 @@
 
 Gwen is a software engineer for biotech startup Nirrin Analytics. They graduated from MIT in 2019 with a Bachelors of Science in Electrical Engineering and Computer Science with a minor in Comparative Media Studies. 
 
-Gwen is interested in human-robot interactions especially with the use of XR. 
+Gwen is interested in human-computer/machine interactions especially with the use of XR. 
 
 ## Projects
 
@@ -25,17 +25,19 @@ https://github.com/Reality-Virtually-Hackathon/CosplayAR
 
 ## Work Experience
 
-### Nirrin
+### Nirrin Analytics, Spring 2019 - Now
 
-### MIT Game Lab UROP
+### Fritz AI, Winter 2018 - Fall 2018
 
-### Fritz
+### MIT Game Lab UROP, Spring 2018
 
-### MIT Residential Agriculture UROP
+### H2L, Summer 2017
 
-### H2L
+### MIT Residential Agriculture UROP, Summer 2016
 
-### BU
+### Opencloud MOC team at Boston University, Winter 2016
+
+### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
