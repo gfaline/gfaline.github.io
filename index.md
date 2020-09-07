@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Gwendolyn Edgar
 
-You can use the [editor on GitHub](https://github.com/gfaline/gfaline.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bio 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+## Project 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
