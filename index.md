@@ -63,5 +63,5 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 
 ## Hobbies
 
-I really enjoy [Cosplay](cosplay.md) and Photography. 
+I really enjoy [Cosplay](cosplay.md) and [Photography](photo.md). 
 
