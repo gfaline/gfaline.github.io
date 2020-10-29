@@ -51,6 +51,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 ### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
 
 ### MIT AR/VR Hackathon Best AR Award, Fall 2017
+<img src="cosplayAR.png" alt="moc" width="200"/>
 <details>
  We've been making clothing the same way since 1860 using inflexible tissue paper designs. Our application scales and superimposes clothing patterns on fabric, greately simplifying making clothes.
  </details>
