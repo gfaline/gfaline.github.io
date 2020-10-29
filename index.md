@@ -61,4 +61,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 ### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
 
 
+## Hobbies
+
+I really enjoy [Cosplay](cosplay.md) and Photography. 
 
