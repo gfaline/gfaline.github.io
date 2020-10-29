@@ -15,5 +15,5 @@ One of my passions is Cosplay. I love designing, drafting and building costumes.
 ### Hachune Miku
 <img src="images/miku.jpg" alt="Miku" width="300"/>
 
-### ID
-<img src="images/id.jpg" alt="ID" width="300"/>
+### Id
+<img src="images/id.jpg" alt="Id" width="300"/>
