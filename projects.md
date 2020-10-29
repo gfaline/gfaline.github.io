@@ -14,11 +14,13 @@
  [Github](https://github.com/jimmyz42/avatar-puzzles)
 
 ### Agromica Farming and Finance Video Game
+<img src="images/agromica.png" alt="agromica" width="300"/>
 <details>
-- Mostly backend, very modular build
-- Lots of design work in the start, especially in mind how to break things up to change level pieces easily
+  As part of my CMS.611, my team developed a farm game, where you pland, harvest and leverage the local market to expand your farm. We all spent a lot of time designing the game at the start of the project. I primarily worked on the backend when developping this game, focusing on modularity. 
     </details>
     
+ [Play!] (https://darbopp.github.io/)
+ 
  [Github](https://github.com/Mach131/CMS611-S19Final)
 
 ### MIT AR/VR Hackathon Best AR Award, Fall 2017
