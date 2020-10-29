@@ -25,6 +25,7 @@ I worked as a full stack engineer with a Boston based startup, Fritz AI, that wa
  </details>
 
 ### MIT Game Lab UROP, Spring 2018 
+<img src="clever.png" alt="clever" width="200"/>
 <details>
 In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collaborative Learning Environment in Virtual Reality, headed by Philip Tan and funded by a grant from the Oculus Story Studio. CLEVR was a mostly student designed educational game promoting cell understanding in highschool biology through "in person" discovery and collaboration between two students - one in virtual reality and one on a companion device. In this project, I participated in the design discussions, built parts and user tested the game, building upon input in further iterations. This was a very rewarding experience for me as I developed both technical and collaboration skills.
  </details>
