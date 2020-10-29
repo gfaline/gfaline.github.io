@@ -15,7 +15,6 @@ I took a strobe photography class while at MIT, and discovered a new passion.
 
 ### Fire Spinning
 <img src="images/fire4.png" alt="Fire" width="600"/>
-<img src="images/fire2.png" alt="Fire" width="250"/>
 
 
 ### Bullets 
