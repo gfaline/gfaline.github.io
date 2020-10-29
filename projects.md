@@ -1,7 +1,14 @@
 ## Projects
 
 ### Audio Only Augmented Reality Platformer Game with BoseAR
+<img src="images/ar.png" alt="ar" width="300"/>
+<details>
+In this project, we explored a new kind of game: a “blind platformer.” Using the spatial sound capabilities of Unity in conjunction with Bose Frames, we designed a game where the player uses their ears to navigate. Our first goal was to determine if this was even possible. Then, once we had that, we wanted to make the experience fun, and not frustrating. To that end, we found three guidelines to follow when designing a game meant to be played and navigated with audio only:
+(i) offer the player one audio target at a time, (ii) always have a linear path to follow, and (iii) give clear and immediate feedback. 
+This project was built by me and another person, and we were both involved in all aspects of designing and implementation.
+</details>
 
+[Youtube](https://www.youtube.com/watch?v=XnTTtl0vi3g)
 
 ### Avatar VR
 <img src="images/avatar.png" alt="avatar" width="300"/>
