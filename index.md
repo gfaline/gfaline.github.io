@@ -17,6 +17,9 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
  </details>
 
 ### H2L, Summer 2017
+<details>
+ In my sophomore year, I reached out to a startup company in Japan working to 'touch' the virtual world - H2L. My application was accepted and that summer I moved to Japan to work with them. At H2L,  I worked under Dr. Emi Tamaki, an associate professor at Waseda University to spearhead an inhouse project centered around sharing experiences between a human and a robot (Nao) using their haptic sensor and feedback system (Unlimited Hand) and augmented reality (Microsoft Hololens). I designed and built a system enabling a human to control and receive input from Nao in a natural way. My system understood how the human moved their head and what gestures they performed. It then piped this information to Nao, whose head and arms moved in a similar way as the human’s.  At the same time, the human could see through Nao’s eyes,  receiving live feedback through a video feed projected on the Hololens. My proof of concept was a success and Professor Tamaki advanced work on this project after I left with different robotic systems.
+  </details>
 
 ### MIT Residential Agriculture UROP, Summer 2016
 
@@ -24,32 +27,3 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 
 ### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gfaline/gfaline.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
