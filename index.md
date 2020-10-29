@@ -4,7 +4,7 @@ Gwen is a software engineer for biotech startup Nirrin Analytics. They graduated
 
 Gwen is interested in human-computer/machine interactions especially with the use of XR. They have worked on systems utilizing interactions between humans and machines to deliver a novel experiance in Tokyo and at MIT in visual augmented reality, audio augmented reality, virtual reality, and haptic systems. 
 
-[Work Experience](gfaline.github.io/Work%20Experiance.md)
+<a href="Work%20Experiance.md">Work Experience</a>
 ## Work Experience
 
 ### Nirrin Analytics, Spring 2019 - Now
