@@ -2,8 +2,6 @@
 
 ### Audio Only Augmented Reality Platformer Game with BoseAR
 
-### CLEVR: Collaborative Learning Environments in Virtual Reality
-https://education.mit.edu/project/clevr/
 
 ### Avatar VR
 <img src="images/avatar.png" alt="avatar" width="300"/>
@@ -16,9 +14,12 @@ https://education.mit.edu/project/clevr/
  [Github](https://github.com/jimmyz42/avatar-puzzles)
 
 ### Agromica Farming and Finance Video Game
+<details>
 - Mostly backend, very modular build
 - Lots of design work in the start, especially in mind how to break things up to change level pieces easily
-https://github.com/Mach131/CMS611-S19Final
+    </details>
+    
+ [Github](https://github.com/Mach131/CMS611-S19Final)
 
 ### MIT AR/VR Hackathon Best AR Award, Fall 2017
 <img src="images/cosplayAR.png" alt="cosplayAR" width="300"/>
@@ -30,6 +31,5 @@ https://github.com/Mach131/CMS611-S19Final
  
  [Github](https://github.com/Reality-Virtually-Hackathon/CosplayAR)
 
-### Human Robot interactions through Hololens, Haptic armband and Nao Robot
-- I was totally in charge of the project, heading off the company on human robot interactions.
+
 
