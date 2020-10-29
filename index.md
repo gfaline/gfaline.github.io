@@ -4,7 +4,7 @@ Gwen is a software engineer for biotech startup Nirrin Analytics. They graduated
 
 Gwen is interested in human-computer/machine interactions especially with the use of XR. They have worked on systems utilizing interactions between humans and machines to deliver a novel experiance in Tokyo and at MIT in visual augmented reality, audio augmented reality, virtual reality, and haptic systems. 
 
-<a href="Work%20Experiance.md">Work Experience</a>
+
 ## Work Experience
 
 ### Nirrin Analytics, Spring 2019 - Now
@@ -12,6 +12,7 @@ Gwen is interested in human-computer/machine interactions especially with the us
 ### Fritz AI, Winter 2018 - Fall 2018
 
 ### MIT Game Lab UROP, Spring 2018
+In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collaborative Learning Environment in Virtual Reality, headed by Philip Tan and funded by a grant from the Oculus Story Studio. CLEVR was a mostly student designed educational game promoting cell understanding in highschool biology through "in person" discovery and collaboration between two students - one in virtual reality and one on a companion device. In this project, I participated in the design discussions, built parts and user tested the game, building upon input in further iterations. This was a very rewarding experience for me as I developed both technical and collaboration skills.
 
 ### H2L, Summer 2017
 
