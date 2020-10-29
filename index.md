@@ -5,14 +5,17 @@ Gwen is a software engineer for biotech startup Nirrin Analytics. They graduated
 Gwen is interested in human-computer/machine interactions especially with the use of XR. They have worked on systems utilizing interactions between humans and machines to deliver a novel experiance in Tokyo and at MIT in visual augmented reality, audio augmented reality, virtual reality, and haptic systems. 
 
 
-## Work Experience
+## Experience
 
 ### Nirrin Analytics, Spring 2019 - Now
 <details>
  I work at a startup called Nirrin Analytics striving to improve research and production of protein based drugs through real time analytics of bioreactor contents using NIR lasers and advanced modeling.  I design, implement, review, and debug software solutions and modeling.  In this past year, I have independently developed and currently maintain a significant portion of our codebase. Since Nirrin is a small company, I have worked on security, networks, databases, APIs and overall infrastructure. It has been a very rewarding experience to learn and build on multiple aspects of a product. 
 </details>
 
-### <Fritz AI, Winter 2018 - Fall 2018>
+### Fritz AI, Winter 2018 - Fall 2018
+<details>
+I worked as a full stack engineer with a Boston based startup, Fritz AI, that was creating a platform to run machine learning algorithms locally on a mobile device as well as a system to evaluate the developer’s learning models. During my time at Fritz, I implemented multiple features and helped with the company's launch. 
+ </details>
 
 ### MIT Game Lab UROP, Spring 2018 
 <details>
@@ -27,6 +30,13 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 ### MIT Residential Agriculture UROP, Summer 2016
 
 ### Opencloud MOC team at Boston University, Winter 2016
-
+<details>
+ I was part of a dynamic team contributing involving in Enhancing OpenStack to enable multiple providers to participate in a shared cloud.
+  </details>
 ### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
+
+### MIT AR/VR Hackathon Best AR Award, Fall 2017
+<details>
+ Created an app called CosplayAR where a user would select a design, modify the design, be told the prices and amounts of the current materials, and made an AR overlay that would place a stable pattern outline over the fabric for creation.
+ </details>
 
