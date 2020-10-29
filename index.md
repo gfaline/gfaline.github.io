@@ -48,7 +48,6 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
   
   [Website](http://unlimitedhand.com/en/)
 
-### MIT Residential Agriculture UROP, Summer 2016
 
 ### Opencloud MOC team at Boston University, Winter 2016
 
