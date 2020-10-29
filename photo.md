@@ -14,8 +14,9 @@ I took a strobe photography class while at MIT, and discovered a new passion.
 [Youtube](https://www.youtube.com/watch?v=qsXwwbKIZbg)
 
 ### Fire Spinning
-<img src="images/fire2.png" alt="Fire" width="300"/>
-<img src="images/fire4.png" alt="Fire" width="400"/>
+<img src="images/fire4.png" alt="Fire" width="600"/>
+<img src="images/fire2.png" alt="Fire" width="250"/>
+
 
 ### Bullets 
 <img src="images/card1.png" alt="Card" width="200"/>
