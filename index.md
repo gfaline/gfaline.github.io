@@ -15,6 +15,7 @@ Gwen is interested in human-computer/machine interactions especially with the us
 
 </details>
 
+[Website](https://nirrin.tech/)
 
 
 
@@ -23,6 +24,8 @@ Gwen is interested in human-computer/machine interactions especially with the us
 <details>
 I worked as a full stack engineer with a Boston based startup, Fritz AI, that was creating a platform to run machine learning algorithms locally on a mobile device as well as a system to evaluate the developer’s learning models. During my time at Fritz, I implemented multiple features and helped with the company's launch. 
  </details>
+ 
+ [Website](https://www.fritz.ai/)
 
 ### MIT Game Lab UROP, Spring 2018 
 <img src="images/clever.png" alt="clever" width="200"/>
@@ -40,6 +43,8 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 <details>
  In my sophomore year, I reached out to a startup company in Japan working to 'touch' the virtual world - H2L. My application was accepted and that summer I moved to Japan to work with them. At H2L,  I worked under Dr. Emi Tamaki, an associate professor at Waseda University to spearhead an inhouse project centered around sharing experiences between a human and a robot (Nao) using their haptic sensor and feedback system (Unlimited Hand) and augmented reality (Microsoft Hololens). I designed and built a system enabling a human to control and receive input from Nao in a natural way. My system understood how the human moved their head and what gestures they performed. It then piped this information to Nao, whose head and arms moved in a similar way as the human’s.  At the same time, the human could see through Nao’s eyes,  receiving live feedback through a video feed projected on the Hololens. My proof of concept was a success and Professor Tamaki advanced work on this project after I left with different robotic systems.
   </details>
+  
+  [Website](http://unlimitedhand.com/en/)
 
 ### MIT Residential Agriculture UROP, Summer 2016
 
@@ -51,10 +56,10 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
  I was part of a dynamic team contributing involving in Enhancing OpenStack to enable multiple providers to participate in a shared cloud.
   </details>
   
+  [Website](https://massopen.cloud/)
+  
 ### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
 
 
-## Hobbies
 
-I really enjoy [Cosplay](cosplay.md) and [Photography](photo.md). 
 
