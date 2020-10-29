@@ -19,7 +19,7 @@
   As part of my CMS.611, my team developed a farm game, where you pland, harvest and leverage the local market to expand your farm. We all spent a lot of time designing the game at the start of the project. I primarily worked on the backend when developping this game, focusing on modularity. 
     </details>
     
- [Play!] (https://darbopp.github.io/)
+ [Play!](https://darbopp.github.io/)
  
  [Github](https://github.com/Mach131/CMS611-S19Final)
 
