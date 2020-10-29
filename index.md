@@ -37,6 +37,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
  </details>
  
  [Youtube](https://www.youtube.com/watch?v=9dUAmJhmx0w) 
+ 
  [Github](https://github.com/Reality-Virtually-Hackathon/CosplayAR)
 
 ### H2L, Summer 2017 
