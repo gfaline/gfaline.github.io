@@ -16,7 +16,7 @@ Gwen is interested in human-computer/machine interactions especially with the us
 
 </details>
 
-[Website](https://nirrin.tech/)
+[Company Website](https://nirrin.tech/)
 
 
 
@@ -26,7 +26,7 @@ Gwen is interested in human-computer/machine interactions especially with the us
 I worked as a full stack engineer with a Boston based startup, Fritz AI, that was creating a platform to run machine learning algorithms locally on a mobile device as well as a system to evaluate the developer’s learning models. During my time at Fritz, I implemented multiple features and helped with the company's launch. 
  </details>
  
- [Website](https://www.fritz.ai/)
+ [Company Website](https://www.fritz.ai/)
 
 ### MIT Game Lab UROP, Spring 2018 
 <img src="images/clever.png" alt="clever" width="200"/>
@@ -47,7 +47,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
  In my sophomore year, I reached out to a startup company in Japan working to 'touch' the virtual world - H2L. My application was accepted and that summer I moved to Japan to work with them. At H2L,  I worked under Dr. Emi Tamaki, an associate professor at Waseda University to spearhead an inhouse project centered around sharing experiences between a human and a robot (Nao) using their haptic sensor and feedback system (Unlimited Hand) and augmented reality (Microsoft Hololens). I designed and built a system enabling a human to control and receive input from Nao in a natural way. My system understood how the human moved their head and what gestures they performed. It then piped this information to Nao, whose head and arms moved in a similar way as the human’s.  At the same time, the human could see through Nao’s eyes,  receiving live feedback through a video feed projected on the Hololens. My proof of concept was a success and Professor Tamaki advanced work on this project after I left with different robotic systems.
   </details>
   
-  [Website](http://unlimitedhand.com/en/)
+  [Company Website](http://unlimitedhand.com/en/)
 
 
 ### Opencloud MOC team at Boston University, Winter 2016
@@ -55,16 +55,17 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 <img src="images/moc.png" alt="moc" width="200"/>
 
 <details>
- I was part of a dynamic team contributing involving in Enhancing OpenStack to enable multiple providers to participate in a shared cloud.
+I was in the core of a dynamic team contributing to Enhancing OpenStack to enable multiple providers to participate in a shared cloud. Massachussetts Open Cloud(MOC) aimed to create a self-sustaining at-scale public cloud based on the Open Cloud eXchange model. It is currently fully operational. I was specifically working with the Hardware Isolation Layer (HIL) group at Boston University which allocates and configures nodes(typically computers or users) and networks. I worked primarily with fellow MIT student Mengyuan Sun to implement outward facing features that interfaced with the rest of the team.
   </details>
   
-  [Website](https://massopen.cloud/)
+  [Group Website](https://massopen.cloud/)
+  [Presentation](https://www.redhat.com/files/summit/session-assets/2017/S108148-rhsummit-moc-rh-talk-2017-v06.pdf)
   
 ### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
 
 <img src="images/rainbow.png" alt="rainbow" width="300"/>
 <details>
-LBGTQ+ issues are very important to me. For most of my MIT career, I worked at the Raibow lounge helping create a more inclusive and welcoming envoronment at MIT. 
+LBGTQ+ issues are very important to me. For most of my MIT career, I worked at the Rainbow Lounge helping to create a more inclusive and welcoming envoronment at MIT. My duties there included upkeep of the space such as physical cleaning and ordering of depleted stock, emotionally providing a welcoming environment for students who needed a safe space, a calm environment, or someone to talk to without judgement, and technically running events, organizing catering, compiling the newsletter, finding funding, and furthering outreach to more students. I enjoyed this work a lot on a more emotional level - you can see people grow and become more comfortable with themselves and maybe be a part of that. I stopped my work my senior year due to time constraints. 
   </details>
 
 [Website](https://lbgtq.mit.edu/home)
