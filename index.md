@@ -47,6 +47,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 <details>
  I was part of a dynamic team contributing involving in Enhancing OpenStack to enable multiple providers to participate in a shared cloud.
   </details>
+  
 ### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
 
 ### MIT AR/VR Hackathon Best AR Award, Fall 2017
