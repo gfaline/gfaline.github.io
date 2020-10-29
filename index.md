@@ -66,6 +66,6 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 LBGTQ+ issues are very important to me. For most of my MIT career, I worked at the Raibow lounge helping create a more inclusive and welcoming envoronment at MIT. 
   </details>
 
-
+[Website](https://lbgtq.mit.edu/home)
 
 
