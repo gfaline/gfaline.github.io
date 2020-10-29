@@ -8,6 +8,9 @@ Gwen is interested in human-computer/machine interactions especially with the us
 ## Work Experience
 
 ### Nirrin Analytics, Spring 2019 - Now
+<details>
+ I work at a startup called Nirrin Analytics striving to improve research and production of protein based drugs through real time analytics of bioreactor contents using NIR lasers and advanced modeling.  I design, implement, review, and debug software solutions and modeling.  In this past year, I have independently developed and currently maintain a significant portion of our codebase. Since Nirrin is a small company, I have worked on security, networks, databases, APIs and overall infrastructure. It has been a very rewarding experience to learn and build on multiple aspects of a product. 
+</details>
 
 ### Fritz AI, Winter 2018 - Fall 2018
 
