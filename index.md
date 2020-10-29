@@ -31,7 +31,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
  </details>
  
 ### MIT AR/VR Hackathon Best AR Award, Fall 2017
-<img src="cosplayAR.png" alt="moc" width="200"/>
+<img src="cosplayAR.png" alt="moc" width="300"/>
 <details>
  We've been making clothing the same way since 1860 using inflexible tissue paper designs. Our application scales and superimposes clothing patterns on fabric, greately simplifying making clothes.
  </details>
@@ -41,7 +41,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 
 ### H2L, Summer 2017 
 
-<img src="h2l.jpg" alt="H2L" width="200"/>
+<img src="h2l.jpg" alt="H2L" width="300"/>
 
 <details>
  In my sophomore year, I reached out to a startup company in Japan working to 'touch' the virtual world - H2L. My application was accepted and that summer I moved to Japan to work with them. At H2L,  I worked under Dr. Emi Tamaki, an associate professor at Waseda University to spearhead an inhouse project centered around sharing experiences between a human and a robot (Nao) using their haptic sensor and feedback system (Unlimited Hand) and augmented reality (Microsoft Hololens). I designed and built a system enabling a human to control and receive input from Nao in a natural way. My system understood how the human moved their head and what gestures they performed. It then piped this information to Nao, whose head and arms moved in a similar way as the human’s.  At the same time, the human could see through Nao’s eyes,  receiving live feedback through a video feed projected on the Hololens. My proof of concept was a success and Professor Tamaki advanced work on this project after I left with different robotic systems.
