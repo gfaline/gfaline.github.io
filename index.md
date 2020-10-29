@@ -30,15 +30,6 @@ I worked as a full stack engineer with a Boston based startup, Fritz AI, that wa
 In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collaborative Learning Environment in Virtual Reality, headed by Philip Tan and funded by a grant from the Oculus Story Studio. CLEVR was a mostly student designed educational game promoting cell understanding in highschool biology through "in person" discovery and collaboration between two students - one in virtual reality and one on a companion device. In this project, I participated in the design discussions, built parts and user tested the game, building upon input in further iterations. This was a very rewarding experience for me as I developed both technical and collaboration skills.
  </details>
  
-### MIT AR/VR Hackathon Best AR Award, Fall 2017
-<img src="images/cosplayAR.png" alt="moc" width="300"/>
-<details>
- We've been making clothing the same way since 1860 using inflexible tissue paper designs. Our application scales and superimposes clothing patterns on fabric, greately simplifying making clothes.
- </details>
- 
- [Youtube](https://www.youtube.com/watch?v=9dUAmJhmx0w) 
- 
- [Github](https://github.com/Reality-Virtually-Hackathon/CosplayAR)
 
 ### H2L, Summer 2017 
 
