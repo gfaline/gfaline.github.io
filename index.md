@@ -35,6 +35,8 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
  
  [Website](https://education.mit.edu/project/clevr/)
  
+ [Youtube](https://www.youtube.com/watch?v=LQFQl3aVijs)
+ 
 
 ### H2L, Summer 2017 
 
