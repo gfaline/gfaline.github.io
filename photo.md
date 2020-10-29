@@ -9,7 +9,9 @@ Gwen is interested in human-computer/machine interactions especially with the us
 I took a strobe photography class while at MIT, and discovered a new passion. 
 
 ### Fire Breathing
-[![Fire Breathing](https://img.youtube.com/vi/qsXwwbKIZbg/0.jpg)](https://www.youtube.com/watch?v=qsXwwbKIZbg)
+<img src="images/breathing.png" alt="Fire" width="300"/>
+
+[Youtube](https://www.youtube.com/watch?v=qsXwwbKIZbg)
 
 ### Fire Spinning
 <img src="images/fire2.png" alt="Fire" width="300"/>
