@@ -51,6 +51,9 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
 
 ### MIT AR/VR Hackathon Best AR Award, Fall 2017
 <details>
- Created an app called CosplayAR where a user would select a design, modify the design, be told the prices and amounts of the current materials, and made an AR overlay that would place a stable pattern outline over the fabric for creation.
+ We've been making clothing the same way since 1860 using inflexible tissue paper designs. Our application scales and superimposes clothing patterns on fabric, greately simplifying making clothes.
  </details>
+ 
+ [Youtube](https://www.youtube.com/watch?v=9dUAmJhmx0w) 
+ [Github](https://github.com/Reality-Virtually-Hackathon/CosplayAR)
 
