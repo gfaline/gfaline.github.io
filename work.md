@@ -59,6 +59,7 @@ I was in the core of a dynamic team contributing to Enhancing OpenStack to enabl
   </details>
   
   [Group Website](https://massopen.cloud/)
+  
   [Presentation](https://www.redhat.com/files/summit/session-assets/2017/S108148-rhsummit-moc-rh-talk-2017-v06.pdf)
   
 ### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
