@@ -27,10 +27,10 @@ This project was built by me and another person, and we were both involved in al
  
  [Github](https://github.com/jimmyz42/avatar-puzzles)
 
-### Agromica Farming and Finance Video Game
+### Napal Learning Through Games Initiative, Agromica
 <img src="images/agromica.png" alt="agromica" width="400"/>
 <details>
-  As part of my CMS.611, my team developed a farm game, where you pland, harvest and leverage the local market to expand your farm. We all spent a lot of time designing the game at the start of the project. I primarily worked on the backend when developping this game, focusing on modularity. 
+In one of my classes at MIT, I worked in a team to build a market understanding game designed for use in classrooms as supplemental material for middle school students. My team developed a farm game, where players grow and harvest crops to meet successive quotas. They can also buy and sell crops on an in-game marketplace and borrow money from a bank. Interacting with the marketplace and bank is required to complete some levels. We all spent a lot of time designing the game at the start of the project based on middle school finance and economics lessons from Nepal. I primarily worked on the backend when developing this game, focusing on the general framework, modular pieces and expansion of the game. After the class ended, we gave our work to MIT-Nepal to be further developed and released as an educational game in classrooms. 
     </details>
     
  [Play!](https://darbopp.github.io/)
@@ -40,7 +40,7 @@ This project was built by me and another person, and we were both involved in al
 ### MIT AR/VR Hackathon Best AR Award, Fall 2017
 <img src="images/cosplayAR.png" alt="cosplayAR" width="400"/>
 <details>
- We've been making clothing the same way since 1860 using inflexible tissue paper designs. Our application scales and superimposes clothing patterns on fabric, greately simplifying making clothes.
+ Humans have been making clothing the same way since 1860 using inflexible tissue paper designs. These designs assume a dedicated space that will not be disturbed by animals or other people. Our application scales and superimposes clothing patterns on fabric given user input, greately simplifying making clothes and creating a much smoother experiance. Through this app, we hope to decrease the barrier or creating clothes at home. 
  </details>
  
  [Youtube](https://www.youtube.com/watch?v=9dUAmJhmx0w) 
