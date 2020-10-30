@@ -15,18 +15,18 @@ Gwen is interested in human-computer/machine interactions especially with the us
  
  Some of the work I do:
  
->   Designed and Built a network architecture with OpenOPC
-*   Started and run team sprints and keep track of progress of team members
-*   Reworked the system to send patches to test devices with partners and implemented security features therein
-*   Uploading data securely, changing data format for easier consumption, and allowing for outside data to be added to the system
-*   Redesigned the routing system for modularity and clarity
-*   Designed, built, and maintain a restful API
-*   Upgraded system to run production server and moved storage and operations to external storage
-*   Reworking database for clarity and better storage
-*   Improving data modeling and modularity
-*   Detect and eliminate slowdowns in the codebase
-*   Debug for database, API, GUI, networking, modeling, and any other software issues
-*   Write documentation
+-   Designed and Built a network architecture with OpenOPC
+-   Started and run team sprints and keep track of progress of team members
+-   Reworked the system to send patches to test devices with partners and implemented security features therein
+-   Uploading data securely, changing data format for easier consumption, and allowing for outside data to be added to the system
+-   Redesigned the routing system for modularity and clarity
+-   Designed, built, and maintain a restful API
+-   Upgraded system to run production server and moved storage and operations to external storage
+-   Reworking database for clarity and better storage
+-   Improving data modeling and modularity
+-   Detect and eliminate slowdowns in the codebase
+-   Debug for database, API, GUI, networking, modeling, and any other software issues
+-   Write documentation
  
 
 </details>
