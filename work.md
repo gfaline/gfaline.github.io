@@ -79,7 +79,7 @@ I was in a dynamic team contributing to Enhancing OpenStack to enable multiple p
 
 <img src="images/rainbow.png" alt="rainbow" width="300"/>
 <details>
-LBGTQ+ issues are very important to me. For most of my MIT career, I worked at the Rainbow Lounge helping to create a more inclusive and welcoming envoronment at MIT. My duties there included upkeep of the physical space, emotionally providing a welcoming environment for students who needed a safe space, a calm environment, or someone to talk to without judgement, and technically running events, organizing catering, compiling the newsletter, finding funding, and furthering outreach to more students. I enjoyed this work a lot on a more emotional level - you can see people grow and become more comfortable with themselves and maybe be a part of that. I stopped my work my senior year due to time constraints. 
+LBGTQ+ issues are very important to me. For most of my MIT career, I worked at the Rainbow Lounge helping to create a more inclusive and welcoming envoronment at MIT. My duties there included emotionally providing a welcoming environment for students who needed a safe space, a calm environment, or someone to talk to without judgement, upkeep of the physical space, and technically running events, organizing catering, compiling the newsletter, finding funding, and furthering outreach to more students. I enjoyed this work a lot on a more emotional level - you can see people grow and become more comfortable with themselves and maybe be a part of that. I stopped my work my senior year due to time constraints. 
   </details>
 
 [Website](https://lbgtq.mit.edu/home)
