@@ -7,7 +7,7 @@ Gwen is interested in human-computer/machine interactions especially with the us
 
 ## Projects
 
-### Audio Only Augmented Reality Platformer Game with BoseAR
+### Going-in-Blind: Audio Only Augmented Reality Platformer Game with BoseAR
 <img src="images/ar.png" alt="ar" width="400"/>
 <details>
 In this project, we explored a new kind of game: a “blind platformer.” Using the spatial sound capabilities of Unity in conjunction with Bose Frames, we designed a game where the player uses their ears to navigate. Our first goal was to determine if this was even possible. Then, once we had that, we wanted to make the experience fun, and not frustrating. To that end, we found three guidelines to follow when designing a game meant to be played and navigated with audio only:
@@ -17,7 +17,7 @@ This project was built by me and another person, and we were both involved in al
 
 [Youtube](https://www.youtube.com/watch?v=XnTTtl0vi3g)
 
-### Avatar VR
+### ChakraScape - Avatar VR
 <img src="images/avatar.png" alt="avatar" width="400"/>
 <details>
   Inspired by the popular show Avatar, as part of my class CMS.339, my team developped a virtual reality game. In the game, you solve puzzles using different bending techniques, like the show (e.g. fire bending). My main role in the project was the interface the user experianced. How did they interact in the world? How could we make the experiance feel natural? How could we make each motion unique and capture the essence of different elements - flow for water, force for fire, rotation for air, and lines for earth. While I helped design the puzzles, the majority of my time was focused on getting manipulations from the oculus controllers and finding what data we needed to look for to read each interaction. 
