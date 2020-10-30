@@ -15,7 +15,7 @@ Gwen is interested in human-computer/machine interactions especially with the us
  
  Some of the work I do:
  
-*   Designed and Built a network architecture with OpenOPC
+>   Designed and Built a network architecture with OpenOPC
 *   Started and run team sprints and keep track of progress of team members
 *   Reworked the system to send patches to test devices with partners and implemented security features therein
 *   Uploading data securely, changing data format for easier consumption, and allowing for outside data to be added to the system
