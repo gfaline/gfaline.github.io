@@ -11,7 +11,9 @@ Gwen is interested in human-computer/machine interactions especially with the us
 ### Nirrin Analytics, Spring 2019 - Now  
 <img src="images/nirrin.png" alt="Nirrin Analytics" width="100"/>
 <details>
- I work at a startup called Nirrin Analytics striving to improve research and production of protein based drugs through real time analytics of bioreactor contents using NIR lasers and advanced modeling.  I design, implement, review, and debug software solutions and modeling.  In this past year, I have independently developed and currently maintain a significant portion of our codebase. Since Nirrin is a small company, I have worked on security, networks, databases, APIs and overall infrastructure. It has been a very rewarding experience to learn and build on multiple aspects of a product. Some of the work I do:
+ I work at a startup called Nirrin Analytics striving to improve research and production of protein based drugs through real time analytics of bioreactor contents using NIR lasers and advanced modeling.  I design, implement, review, and debug software solutions and modeling.  In this past year, I have independently developed and currently maintain a significant portion of our codebase. Since Nirrin is a small company, I have worked on security, networks, databases, APIs and overall infrastructure. It has been a very rewarding experience to learn and build on multiple aspects of a product. 
+ 
+ Some of the work I do:
  
 *   Designed and Built a network architecture with OpenOPC
 *   Started and run team sprints and keep track of progress of team members
