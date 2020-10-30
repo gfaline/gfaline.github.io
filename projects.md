@@ -40,7 +40,7 @@ In one of my classes at MIT, I worked in a team to build a market understanding 
 ### MIT AR/VR Hackathon Best AR Award, Fall 2017
 <img src="images/cosplayAR.png" alt="cosplayAR" width="400"/>
 <details>
- Humans have been making clothing the same way since 1860 using inflexible tissue paper designs. These designs assume a dedicated space that will not be disturbed by animals or other people. Our application scales and superimposes clothing patterns on fabric given user input, greately simplifying making clothes and creating a much smoother experiance. Through this app, we hope to decrease the barrier or creating clothes at home. 
+ Humans have been making clothing the same way since 1860 using inflexible tissue paper designs. These designs assume a dedicated space that will not be disturbed by animals or other people. Our application scales and superimposes clothing patterns on fabric given user input, greately simplifying making clothes and creating a much smoother experiance. Through this app, we hope to decrease the barrier of creating clothes at home. 
  </details>
  
  [Youtube](https://www.youtube.com/watch?v=9dUAmJhmx0w) 
