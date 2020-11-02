@@ -17,7 +17,8 @@ This project was built by me and another person, and we were both involved in al
 
 [Youtube](https://www.youtube.com/watch?v=XnTTtl0vi3g)
 
-### ChakraScape - Avatar VR
+
+### ChakraScape - [Avatar VR](#avatar)
 <img src="images/avatar.png" alt="avatar" width="400"/>
 <details>
   Inspired by the popular show Avatar, as part of my class CMS.339, my team developped a virtual reality game. In the game, you solve puzzles using different bending techniques, like the show (e.g. fire bending). My main role in the project was the interface the user experianced. How did they interact in the world? How could we make the experiance feel natural? How could we make each motion unique and capture the essence of different elements - flow for water, force for fire, rotation for air, and lines for earth. While I helped design the puzzles, the majority of my time was focused on getting manipulations from the oculus controllers and finding what data we needed to look for to read each interaction. 
