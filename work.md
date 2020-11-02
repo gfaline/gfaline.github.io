@@ -8,7 +8,7 @@ Gwen is interested in human-computer/machine interactions especially with the us
 
 ## Experience
 
-### Nirrin Analytics, Spring 2019 - Now  
+### [Nirrin Analytics, Spring 2019 - Now](#nirrin)  
 <img src="images/nirrin.png" alt="Nirrin Analytics" width="100"/>
 <details>
  I work at a startup called Nirrin Analytics striving to improve research and production of protein based drugs through real time analytics of bioreactor contents using NIR lasers and advanced modeling.  I design, implement, review, and debug software solutions and modeling.  In this past year, I have independently developed and currently maintain a significant portion of our codebase. Since Nirrin is a small company, I have worked on security, networks, databases, APIs and overall infrastructure. It has been a very rewarding experience to learn and build on multiple aspects of a product. 
@@ -35,7 +35,7 @@ Some of the work I do:
 
 
 
-### Fritz AI, Winter 2018 - Fall 2018
+### [Fritz AI, Winter 2018 - Fall 2018](#fritz)
 <img src="images/fritz_logo.png" alt="Fritz AI" width="200"/>
 <details>
 I worked as a full stack engineer with a Boston based startup, Fritz AI, that was creating a platform to run machine learning algorithms locally on a mobile device as well as a system to evaluate the developer’s learning models. The point of this was to protect personal data or to allow for machine learning to help people who do not have consistent data connection. The use cases of these two are as follows: some data is too sensitive or personal to be trusted to go online or be collected such as in the case of a STD detector; there are many places where phones are prevalient but data connections are not. A prime example of this use case is a project we helped with where farmers in third world countries would download the models while in town then use their phones to detect crop disease and learn how to treat it. During my time at Fritz, I implemented multiple features and helped with the company's public launch. This work was the exact opposite of my previous internship as I was fully part of the software team. I filled tickets and participated in code review. 
@@ -43,7 +43,7 @@ I worked as a full stack engineer with a Boston based startup, Fritz AI, that wa
  
  [Company Website](https://www.fritz.ai/)
 
-### MIT Game Lab UROP, Spring 2018 
+### [MIT Game Lab UROP, Spring 2018](#clevr) 
 <img src="images/clever.png" alt="clever" width="200"/>
 <details>
 In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collaborative Learning Environment in Virtual Reality, headed by Philip Tan and funded by a grant from the Oculus Story Studio. CLEVR was a mostly student designed educational game promoting cell understanding in highschool biology through "in person" discovery and collaboration between two students - one in virtual reality and one on a companion device. In this project, I participated in the design discussions, built parts and user tested the game, building upon input in further iterations. This was a very rewarding experience for me as I developed both technical and collaboration skills.
@@ -54,7 +54,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
  [Youtube](https://www.youtube.com/watch?v=LQFQl3aVijs)
  
 
-### H2L, Summer 2017 
+### [H2L, Summer 2017](#h2l) 
 
 <img src="images/h2l.jpg" alt="H2L" width="300"/>
 
@@ -65,7 +65,7 @@ In my junior year, I joined the MIT Game Lab, where I worked on CLEVR, Collabora
   [Company Website](http://unlimitedhand.com/en/)
 
 
-### Opencloud MOC team at Boston University, Winter 2016
+### [Opencloud MOC team at Boston University, Winter 2016](#moc)
 
 <img src="images/moc.png" alt="moc" width="200"/>
 
@@ -77,7 +77,7 @@ I was in a dynamic team contributing to Enhancing OpenStack to enable multiple p
   
   [Presentation](https://www.redhat.com/files/summit/session-assets/2017/S108148-rhsummit-moc-rh-talk-2017-v06.pdf)
   
-### Rainbow Lounge Student Worker, Fall 2015 - Spring 2018
+### [Rainbow Lounge Student Worker, Fall 2015 - Spring 2018](#gay)
 
 <img src="images/rainbow.png" alt="rainbow" width="300"/>
 <details>
