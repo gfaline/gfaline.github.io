@@ -1,11 +1,20 @@
 ## Gwendolyn Edgar
 
-Gwen is a software engineer for biotech startup Nirrin Analytics. They graduated from MIT in 2019 with a Bachelors of Science in Electrical Engineering and Computer Science with a minor in Comparative Media Studies. 
+Gwen is a PhD student at Tufts University, working on Human Robot Interaction. Their research focuses on collaborative robotics, aiming to make robots teammates not tools. They graduated from MIT in 2019 with a Bachelors of Science in Electrical Engineering and Computer Science with a minor in Comparative Media Studies. 
 
 Gwen is interested in human-computer/machine interactions especially with the use of XR. They have worked on systems utilizing interactions between humans and machines to deliver a novel experiance in Tokyo and at MIT in visual augmented reality, audio augmented reality, virtual reality, and haptic systems. 
 
 
 ## Projects
+
+
+### [Teammates, not tools: Developing proactive robotic teammates using shared mental models](#smm)
+<img src="images/nao.png" alt="nao" width="400"/>
+<details>
+In this demo, I am being prompted by Nao, the small robot, if I wish for it to do a task. This natrual language processing component implemetation was a step foward in my work on proactive, collaborative teammates. The entire demo was done through a cognitive architecture, DIARC. I am developing robots that understand human goals and contribute towards their completion by both proactively aiding humans and effectively dispersing the workload among fellow robots using shared mental models. For this project, I am developing an autonomy software and running a user study to determine the optimal level of proactiveness and use of shared mental models.  
+</details>
+
+[Demo](https://youtu.be/-1uy76qiRNc)
 
 ### Audio Only Augmented Reality Platformer Game with BoseAR
 <img src="images/ar.png" alt="ar" width="400"/>
