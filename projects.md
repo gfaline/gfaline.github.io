@@ -7,6 +7,16 @@ Gwen is interested in human-computer/machine interactions especially with the us
 
 ## Projects
 
+
+### [Teammates, not tools: Developing proactive robotic teammates using shared mental models](#smm)
+<img src="images/nao.jpg" alt="nao" width="400"/>
+<details>
+In this demo, I am being prompted by Nao, the small robot, if I wish for it to do a task. This natrual language processing component implemetation was a step foward in my work on proactive, collaborative teammates. The entire demo was done through a cognitive architecture, DIARC. I am developing robots that understand human goals and contribute towards their completion by both proactively aiding humans and effectively dispersing the workload among fellow robots using shared mental models. For this project, I am developing an autonomy software and running a user study to determine the optimal level of proactiveness and use of shared mental models.  
+</details>
+
+[Demo](https://youtu.be/-1uy76qiRNc)
+
+
 ### [Going-in-Blind: Audio Only Augmented Reality Platformer Game with BoseAR](#bose)
 <img src="images/ar.png" alt="ar" width="400"/>
 <details>
