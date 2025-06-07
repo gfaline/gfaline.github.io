@@ -12,7 +12,7 @@ Photo by Josh, taken at FireFly Arts Retreat
 
 ### Palm Torches
 <img src="images/KB2025_Nocturnal_114.jpg" alt="Miku" width="600"/>
-Photo by @mwcrane13, taken at Granite Festival
+Photo by @mwcrane13, taken at KiwiBurn Festival
 
 ### DragonStaff
 <img src="images/GraniteBurnFireFox.JPG" alt="Id" width="600"/>
