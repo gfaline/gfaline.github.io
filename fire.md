@@ -11,9 +11,9 @@ Photo by Josh, taken at FireFly Arts Retreat
 
 
 ### Palm Torches
-<img src="images/KB2025_Nocturnal_114.jpg" alt="Miku" width="300"/>
+<img src="images/KB2025_Nocturnal_114.jpg" alt="Miku" width="600"/>
 Photo by @mwcrane13, taken at Granite Festival
 
 ### DragonStaff
-<img src="images/GraniteBurnFireFox.JPG" alt="Id" width="300"/>
+<img src="images/GraniteBurnFireFox.JPG" alt="Id" width="600"/>
 Photo by Gabriel, taken at Granite Festival
